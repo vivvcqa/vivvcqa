@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-23T18:43:01 MST" name="Default suite" finished-at="2022-01-23T18:43:37 MST" duration-ms="36174">
+    <groups>
+    </groups>
+    <test started-at="2022-01-23T18:43:01 MST" name="Default test" finished-at="2022-01-23T18:43:37 MST" duration-ms="36174">
+      <class name="sysconfig.Dev140_Test_userroles">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:sysconfig.Dev140_Test_userroles@3d1cfad4]" started-at="2022-01-23T18:43:01 MST" name="setUp" finished-at="2022-01-23T18:43:14 MST" duration-ms="12927" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Add_UserRole()[pri:0, instance:sysconfig.Dev140_Test_userroles@3d1cfad4]" started-at="2022-01-23T18:43:14 MST" name="Add_UserRole" finished-at="2022-01-23T18:43:29 MST" duration-ms="15191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Add_UserRole -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:sysconfig.Dev140_Test_userroles@3d1cfad4]" started-at="2022-01-23T18:43:29 MST" name="tearDown" finished-at="2022-01-23T18:43:37 MST" duration-ms="8006" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- sysconfig.Dev140_Test_userroles -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
